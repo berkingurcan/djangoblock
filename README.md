@@ -66,6 +66,9 @@ Then run again the project:
 cd ..
 sudo python3 manage.py runserver 0.0.0.0:8001
 ```
+
+After that, please run other node similarly by applying these steps above. Then use `connect_node` method to connect nodes each other.
+
 <br />
 <h4>Step 4: Front End  </h4>
 
