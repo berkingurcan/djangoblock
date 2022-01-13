@@ -39,7 +39,7 @@ Django Stack deployment tool while creating vm to easily run the project. Then w
 >> <li> tcp: 8001 or what you want also 3000 for front end if you want </li>
 
 <br />
-<h4> Step 3: Run project </h4>
+<h4> Step 3: Deploy and Run Project </h4>
 <h6> Run your django blockchain project </h6>
 <br />
 Open SSH your VM
