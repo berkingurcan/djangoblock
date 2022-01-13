@@ -21,7 +21,7 @@ First of all there are two main source while I am implementing this project.
 ----
 
 First, we need to create virtual machine instances on GCP(or other platforms) in order to run the blockchain. Since we deploy Django Project, we need to launch
-Django Stack deployment tool while creating vm to easily run the project. Then we will apply same steps in the youtube video [below](https://www.youtube.com/watch?v=NcgcN2t19ww):
+Django Stack deployment tool while creating vm to easily run the project. Then we will apply same steps in the youtube video [above](https://www.youtube.com/watch?v=NcgcN2t19ww):
 <br />
 
 <h4> Step 1: Launch VM </h4>
