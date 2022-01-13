@@ -7,5 +7,15 @@ First of all there are two main source while I am implementing this project.
 <br />[Google Cloud Platform Django Stack VM and Firewall Configurations](https://www.youtube.com/watch?v=NcgcN2t19ww)
 
 
+<br /> <h3>Project Architecture Diagrams</h3>
+<br />
+<br />
+
+![alt text](https://github.com/berkingurcan/djangoblock/blob/main/diagram.png?raw=true)
+
+<br />
+<br />
+<br />
+
 First, we need to create virtual machine instances on GCP(or other platforms) in order to run the blockchain. Since we deploy Django Project, we need to launch
 Django Stack deployment tool while creating vm to easily run the project.
