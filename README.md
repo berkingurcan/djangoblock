@@ -6,6 +6,7 @@ First of all there are two main source while I am implementing this project.
 [Back-End and Front-End Implementation of Blockchain](https://medium.com/@MKGOfficial/build-a-simple-blockchain-cryptocurrency-with-python-django-web-framework-reactjs-f1aebd50b6c)
 <br />[Google Cloud Platform Django Stack VM and Firewall Configurations](https://www.youtube.com/watch?v=NcgcN2t19ww)
 
+----
 
 <br /> <h3>Project Architecture Diagrams</h3>
 <br />
@@ -16,6 +17,8 @@ First of all there are two main source while I am implementing this project.
 <br />
 <br />
 <br />
+
+----
 
 First, we need to create virtual machine instances on GCP(or other platforms) in order to run the blockchain. Since we deploy Django Project, we need to launch
 Django Stack deployment tool while creating vm to easily run the project. Then we will apply same steps in the youtube video [below](https://www.youtube.com/watch?v=NcgcN2t19ww):
@@ -77,6 +80,7 @@ Please download latest versions of `node.js` and `npm`. And change directory to 
 npm install
 sudo npm run start 0.0.0.0:3000
 ```
+----
 
 <h1>Blockchain as an API </h1>
 
