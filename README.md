@@ -268,11 +268,15 @@ I have used Python and Django in order to implement blockchain and API.
  
  View Results Tree results which includes HTTP Requests' response results: load time, latency etc. are in the repository `test_result20.csv`. 
  
+ ![alt text](https://github.com/berkingurcan/djangoblock/blob/main/test_result.png?raw=true)
+ 
  yorum yorum yorum
  
  <br />
  
  Also Summary Report listener in the repository `test_summary20.csv`.
+ 
+ ![alt text](https://github.com/berkingurcan/djangoblock/blob/main/test_summary.png?raw=true)
  
  yorum yorum yorum
  
@@ -280,6 +284,8 @@ I have used Python and Django in order to implement blockchain and API.
  <br />
  
  Lastly, you can see below Graph Results of HTTP request for mining performance analysis.
+ 
+ ![alt text](https://github.com/berkingurcan/djangoblock/blob/main/graph.png?raw=true)
  
 
 
