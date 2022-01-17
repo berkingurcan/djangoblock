@@ -285,8 +285,9 @@ I have used Python and Django in order to implement blockchain and API.
  
  Lastly, you can see below Graph Results of HTTP request for mining performance analysis.
  
- ![alt text](https://github.com/berkingurcan/djangoblock/blob/main/graph.png?raw=true)
+ ![alt text](https://github.com/berkingurcan/djangoblock/blob/main/test_graph.png?raw=true)
  
+  ![alt text](https://github.com/berkingurcan/djangoblock/blob/main/test_graph2.png?raw=true)
 
 
 
