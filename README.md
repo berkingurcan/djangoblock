@@ -259,13 +259,27 @@ I have used Python and Django in order to implement blockchain and API.
 
 
                         
-                        
+ ----
  
-    
+ <h1>Performance Evaluation </h1>
+ ---- 
+ 
+ HTTP Load testing and API testing with `Number of Threads(users): 120` , `Ramp-up period(seconds)`, `Loop Count:10` HTTP Request one node `GET METHOD: /mine_block` in order to test mining performance by using Apache JMeter.
+ 
+ View Results Tree results which includes HTTP Requests' response results: load time, latency etc. are in the repository `test_result20.csv`. 
+ 
+ yorum yorum yorum
+ 
+ <br />
+ 
+ Also Summary Report listener in the repository `test_summary20.csv`.
+ 
+ yorum yorum yorum
  
                     
-                    
-  
+ <br />
+ 
+ Lastly, you can see below Graph Results of HTTP request for mining performance analysis.
  
 
 
