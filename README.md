@@ -285,6 +285,8 @@ I have used Python and Django in order to implement blockchain and API.
  ![alt text](https://github.com/berkingurcan/djangoblock/blob/main/test_graph2.png?raw=true)
 
 
-
+<img width="1440" alt="Screen Shot 2022-01-26 at 14 44 30" src="https://user-images.githubusercontent.com/70534820/151158184-103559e5-3c5b-48c8-83fd-97dd616bb694.png">
+<img width="1440" alt="Screen Shot 2022-01-26 at 14 40 19" src="https://user-images.githubusercontent.com/70534820/151158198-7c80e0de-69af-411f-8f06-037de71ed92a.png">
+<img width="1440" alt="Screen Shot 2022-01-26 at 14 39 53" src="https://user-images.githubusercontent.com/70534820/151158211-de9593d0-1803-4ee0-8352-e20a7ddcf21f.png">
 
 
